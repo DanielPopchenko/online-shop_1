@@ -1,0 +1,9 @@
+.contentWrapper {
+  height: auto;
+  overflow: none;
+  height: 100%;
+}
+
+.contentWrapperExtended {
+  height: 200%;
+}

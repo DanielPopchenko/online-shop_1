@@ -1,0 +1,21 @@
+.home {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 40px 0px 80px 0px;
+}
+
+.slogan > h1 {
+  font-size: 60px;
+}
+
+.slogan {
+  height: 100%;
+  margin-top: 21%;
+}
+
+.home > h2 {
+  font-size: 30px;
+  font-weight: 300;
+  margin-top: 20px;
+}

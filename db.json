@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Essential Pocket Tee",
+      "category": "tshirts",
+      "price": 19.99,
+      "quantity": 7,
+      "image": "https://img.abercrombie.com/is/image/anf/KIC_124-3750-1332-950_prod1.jpg?policy=product-large"
+    },
+    {
+      "id": 2,
+      "name": "Essential Popover Hoodie",
+      "category": "hoodies",
+      "price": 64.99,
+      "quantity": 30,
+      "image": "https://img.abercrombie.com/is/image/anf/KIC_122-3168-1427-170_prod1.jpg?policy=product-extra-large"
+    },
+    {
+      "id": 3,
+      "name": "Hooded Sweatshirt",
+      "category": "sweatshirts",
+      "price": 44.99,
+      "quantity": 20,
+      "image": "https://img.abercrombie.com/is/image/anf/KIC_122-3197-1442-100_prod1.jpg?policy=product-large"
+    },
+    {
+      "id": 4,
+      "name": "Embroidered Button-Up Shirt",
+      "category": "shirts",
+      "price": 39.99,
+      "quantity": 40,
+      "image": "https://img.abercrombie.com/is/image/anf/KIC_125-3200-0030-908_prod1.jpg?policy=product-extra-large"
+    },
+    {
+      "id": 5,
+      "name": "Long-Sleeve",
+      "category": "longsleeves",
+      "price": 24.99,
+      "quantity": 5,
+      "image": "https://img.abercrombie.com/is/image/anf/KIC_139-3549-0079-909_prod1.jpg?policy=product-large"
+    },
+    {
+      "id": 6,
+      "name": "Pants",
+      "category": "pants",
+      "price": 39.99,
+      "quantity": 25,
+      "image": "https://img.abercrombie.com/is/image/anf/KIC_130-3085-0004-900_prod1.jpg?policy=product-extra-large"
+    },
+    {
+      "id": 7,
+      "name": "Jeans",
+      "category": "jeans",
+      "price": 54.99,
+      "quantity": 5,
+      "image": "https://img.abercrombie.com/is/image/anf/KIC_155-4022-0161-281_prod1.jpg?policy=product-large"
+    },
+    {
+      "id": 8,
+      "name": "Shorts",
+      "category": "shorts",
+      "price": 39.99,
+      "quantity": 10,
+      "image": "https://img.abercrombie.com/is/image/anf/KIC_128-3140-0371-200_prod1.jpg?policy=product-large"
+    },
+    {
+      "id": 9,
+      "name": "Cap",
+      "category": "caps",
+      "price": 49.99,
+      "quantity": 20,
+      "image": "https://img.abercrombie.com/is/image/anf/KIC_112-3142-0008-900_prod1.jpg?policy=product-large"
+    },
+    {
+      "id": 10,
+      "name": "Hat",
+      "category": "hats",
+      "price": 29.99,
+      "quantity": 12,
+      "image": "https://img.abercrombie.com/is/image/anf/KIC_112-3158-0005-100_prod1.jpg?policy=product-large"
+    },
+    {
+      "id": 11,
+      "name": "Scarf",
+      "category": "scarfs",
+      "price": 25.99,
+      "quantity": 3,
+      "image": "https://img.abercrombie.com/is/image/anf/KIC_154-3074-0003-965_prod1.jpg?policy=product-large"
+    },
+    {
+      "id": 12,
+      "name": "Bag",
+      "category": "accessories",
+      "subcategory": "bags",
+      "price": 34.99,
+      "quantity": 3,
+      "image": "https://img.abercrombie.com/is/image/anf/KIC_154-4010-0006-800_prod1.jpg?policy=product-large"
+    },
+    {
+      "id": 13,
+      "name": "Bag",
+      "category": "accessories",
+      "subcategory": "bags",
+      "price": 37.99,
+      "quantity": 8,
+      "image": "https://img.abercrombie.com/is/image/anf/KIC_154-4031-0002-900_prod1.jpg?policy=product-large"
+    }
+  ]
+}

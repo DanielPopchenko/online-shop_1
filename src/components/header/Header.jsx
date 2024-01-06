@@ -3,6 +3,7 @@ import styles from './Header.module.css';
 import currency from '../../images/logos/currency.png';
 import cart from '../../images/logos/cart.png';
 import language from '../../images/logos/language.png';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
@@ -17,13 +18,13 @@ const Header = () => {
           </button>
         </div>
 
-        <p>HOME</p>
-        <p>CATALOG</p>
+        <Link to="/">HOME</Link>
+        <Link to="/about">ABOUT</Link>
 
         {/* logo text */}
         <h2>TXS</h2>
 
-        <p>VOTING</p>
+        <Link to="/catalog">CATALOG</Link>
         <p>CONTACT</p>
         <img src={cart} alt="language logo" width={30} height={30} />
       </div>
