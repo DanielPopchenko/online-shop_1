@@ -1,0 +1,7 @@
+.backdrop {
+  background-image: url('../../images/backdrop.png');
+  background-size: cover;
+  max-width: 1470px;
+  height: 100vh;
+  padding: 25px;
+}

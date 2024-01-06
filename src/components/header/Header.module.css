@@ -1,0 +1,55 @@
+.topHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.header {
+  display: block;
+}
+
+.header img {
+  text-align: center;
+  cursor: pointer;
+}
+
+.header h2 {
+  color: #fff;
+  font-family: Horizon;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.header button {
+  display: block;
+  background-color: transparent;
+  border: none;
+}
+
+.header button + button {
+  display: block;
+  margin-left: 10px;
+}
+
+.switchOptions {
+  display: flex;
+}
+
+.linksList {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  color: #fff;
+  font-family: Inter;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+/* .linksList li+li{
+
+} */
